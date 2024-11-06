@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "66fa767c80d55ce002cd41a8"
+  },
+  "name": "AAIZEL INTERNATIONAL TECHNOLOGIES PVT. LTD",
+  "email": "kksingh@aaizel.com",
+  "profile": "https://aaizeltech.com",
+  "department": "Network Security",
+  "specialization": "Cyber Incidents Monitoring",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa868280d55ce002cd41ac"
+  },
+  "name": "COSGRID SYSTEMS PRIVATE LIMITED",
+  "email": "murugavel@cspl.com",
+  "profile": " https://www.cosgrid.com/home",
+  "department": "Network Security",
+  "specialization": "ZTNA, NDR, 5G",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa875b80d55ce002cd41b1"
+  },
+  "name": "ANSH TECH LABS PVT. LTD.",
+  "email": "harshp@atlp.com",
+  "profile": "https://www.linkedin.com/company/ansh-tech-labs",
+  "department": "Digital Forensics",
+  "specialization": "Open Source Intelligence",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa87c880d55ce002cd41b5"
+  },
+  "name": "APPSENTINELS PRIVATE LIMITED ",
+  "email": "mohit@appspl.com",
+  "profile": " https://appsentinels.ai",
+  "department": "Application Security",
+  "specialization": "API security, AI/ML",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa88d080d55ce002cd41bb"
+  },
+  "name": "ARDENT PRIVACY PVT. LTD. (APPL)",
+  "email": "sameer@ardppl.com",
+  "profile": " http://www.ardentprivacy.ai",
+  "department": "Data Security and Privacy",
+  "specialization": "Privacy Intelligence and AUtomation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa895880d55ce002cd41be"
+  },
+  "name": "ARISHTI CYBERTECH PRIVATE LIMITED",
+  "email": "kanak@acpl.com",
+  "profile": " https://arishti.in/",
+  "department": "Application Security",
+  "specialization": "Secure Communication",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa89ea80d55ce002cd41c3"
+  },
+  "name": "ARISHTI INFO LABS PRIVATE LIMITED",
+  "email": "hardik@ailp.com",
+  "profile": "https://arishti.com/",
+  "department": "Security Operations Technology",
+  "specialization": "IOT, AI/ML",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8a2580d55ce002cd41c6"
+  },
+  "name": "ASPIA INFOTECH",
+  "email": "mohit@aspia.com",
+  "profile": "https://aspiainfotech.com",
+  "department": "Security Operations Technology",
+  "specialization": "VA, GRC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8a8580d55ce002cd41ca"
+  },
+  "name": "ATHENIAN TECH PRIVATE LIMITED ",
+  "email": "kanishk@athen.com",
+  "profile": " https://www.atheniantech.com/ ",
+  "department": "Security Operations Technology",
+  "specialization": "Risk Monitoring",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8b6980d55ce002cd41d4"
+  },
+  "name": "BEAGLE CYBER INNOVATIONS PVT. LTD.",
+  "email": "rejah@beagle.com",
+  "profile": "https://beaglesecurity.com",
+  "department": "Application Security",
+  "specialization": "API security, AI/ML",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8bec80d55ce002cd41d9"
+  },
+  "name": "BHUMI ITECH PRIVATE LIMITED",
+  "email": "harish@bhumi.com",
+  "profile": " https://www.bhumiitech.com/ ",
+  "department": "Cyber Awareness & Training",
+  "specialization": "Cyber Range Platfrom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8c6480d55ce002cd41de"
+  },
+  "name": "BLUSAPPHIRE APPLIANCES PVT. LTD.",
+  "email": "kiran@bsapl.com",
+  "profile": "https://www.blusapphire.com/ ",
+  "department": "Security Operations Technology",
+  "specialization": "NDR, UEBA, EDR, SIEM, SOAR, XDR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8cc280d55ce002cd41e3"
+  },
+  "name": "BUGBASE SECURITY PRIVATE LIMITED",
+  "email": "dhruva@bsp.com",
+  "profile": " https://bugbase.in/",
+  "department": "Application Security",
+  "specialization": "VA, PT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8d0a80d55ce002cd41e7"
+  },
+  "name": "BYTAMORPH ZONA PVT. LTD. (SECURAA)",
+  "email": "rajesh@bzpl.com",
+  "profile": " https://securaa.io",
+  "department": "Security Operations Technology",
+  "specialization": "NDR, UEBA, EDR, SIEM, SOAR, XDR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8d6a80d55ce002cd41ec"
+  },
+  "name": "CHAMPION SEMICONDUCTOR LLP",
+  "email": "sahil@bslp.com",
+  "profile": " http://www.geocon.in",
+  "department": "Hardware Security",
+  "specialization": "Embedded Systems",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8d9980d55ce002cd41ef"
+  },
+  "name": "CHIPSPIRIT TECHNOLOGIES PVT. LTD.",
+  "email": "mohan@chips.com",
+  "profile": " https://www.chipspirit.com",
+  "department": "Hardware Security",
+  "specialization": "H/W based Encryption",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66fa8dfd80d55ce002cd41f4"
+  },
+  "name": "CIBERA DEFENCE PRIVATE LIMITED",
+  "email": "nandu@cdpl.com",
+  "profile": "https://www.cdc-on.in",
+  "department": "Security Operations Technology",
+  "specialization": "NDR, UEBA, EDR, SIEM, SOAR, XDR",
+  "__v": 0
+}]
